@@ -1,1 +1,1 @@
-# Segment-Anything-Model-Implementation
+# Segment Anything Model (SAM)-Implementation
